@@ -1,4 +1,2 @@
 
-
-creat page home
 creat page setting
