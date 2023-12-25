@@ -13,3 +13,4 @@ Creat page video
 Creat page dashboard
 Creat dashboard
 Creat page login
+Creat page forgot pass
