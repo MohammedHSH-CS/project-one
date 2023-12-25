@@ -9,9 +9,6 @@ Task 4
 Task 5 
 Task 6 
 Creat page home 2
-
-Creat paeg wepview
-
 Creat page video
 Creat page dashboard
 Creat dashboard
