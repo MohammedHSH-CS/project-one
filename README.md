@@ -36,3 +36,7 @@ git init
 
 
 [![git&GitHub](https://github.com/MohammedHSH-CS/project-one/assets/154637050/0c1128b5-5909-4b9d-869a-375ab2ee123c)](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+
+[<img src= "https://github.com/MohammedHSH-CS/project-one/assets/154637050/0c1128b5-5909-4b9d-869a-375ab2ee123c" width="50%">
+](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+
